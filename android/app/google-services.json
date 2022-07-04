@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853430981274",
+    "project_id": "instagrammec-791d5",
+    "storage_bucket": "instagrammec-791d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853430981274:android:c76dfc122616df35078523",
+        "android_client_info": {
+          "package_name": "com.example.jayesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853430981274-7113jv9fe70av2258r96ujtlnmmju07r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB68W_qI6MohS-9i3Fz0p42wNFKW_U9eX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853430981274-7113jv9fe70av2258r96ujtlnmmju07r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
